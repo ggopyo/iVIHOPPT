@@ -11,6 +11,5 @@ public folder의 csv 폴더 내 각 csv파일에서 프레젠테이션 내용이
 해당 배열은 React-Router가 folderArray에서 가져온 이름으로 path를 설정해주어 각 페이지 진입 시 
 렌더가 되게 합니다.
 
-![image](https://user-images.githubusercontent.com/34387356/154852334-cc21c687-a9eb-4a6f-8c80-be899e4c883b.png)
-
+![image](https://user-images.githubusercontent.com/34387356/154852375-b597a665-19d7-411b-9e95-8edb7718b948.png)
 읽어 주셔서 감사합니다
