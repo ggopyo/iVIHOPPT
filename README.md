@@ -1,4 +1,4 @@
-# 개요(http://www.iVIHO.com/introduction)
+# 개요
 
 iVIHO 프로젝트(https://github.com/ggopyo/iVIHOAPP)를 소개하기 위해 React로 만든 프레젠테이션 프로젝트입니다.
 프론트엔드 업무에 보다 익숙해지고 싶어 React로 구현하게 되었습니다.
