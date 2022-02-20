@@ -1,9 +1,9 @@
-# 개요
+# 개요(http://www.iVIHO.com/introduction)
 
 iVIHO 프로젝트(https://github.com/ggopyo/iVIHOAPP)를 소개하기 위해 React로 만든 프레젠테이션 프로젝트 입니다.
 프론트엔드 업무에 보다 익숙해지고 싶어 React로 구현하게 되었습니다.
 
-http://www.iVIHO.com/ 으로 접속하시면 /introduction 경로로 redirect되어 본 프로젝트를 확인하실 수 있습니다.
+http://www.iVIHO.com/ 으로 접속하시더라도 /introduction 경로로 redirect되어 본 프로젝트를 확인하실 수 있습니다.
 
 ## 구현방법
 React-Router v6와 CSS의 FlexBox를 이용하여 구현하였습니다.
