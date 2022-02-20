@@ -1,0 +1,4 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+메뉴사이드바1,header,black,FALSE,450
+Material-UI의 Appbar 및 TabList와 Tab으로 화면 좌측 사이드바를 구성하였음. 각 탭을 클릭하는대로 useState로 tab값이 할당되고 props로 Component를 이동하여 요청받은 화면을 표시,text,lightgray,FALSE,450
+0.png/3.png,content,#34568B,l/메뉴 사이드바의 코드 예시,450

@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Tab 구현,header,blue,FALSE,270
+3.png,content,#FF6F61,FALSE,270
+material-ui의 Tabs를 사용하면 identifier를 할당하여 해당 tab이 클릭되었을 때 내용을 표시,content,lightgray,FALSE,270
+업로드한 사이트의 도메인을 구분하여 로고를 표시한다,content,lightgray,FALSE,270

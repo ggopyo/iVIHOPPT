@@ -1,0 +1,6 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+idValidator와 emailValidator 함수로 데이터베이스로부터 정보를 불러와 회원가입 정합성을 검증,text,#FF6F61,,450
+38.png/39.png,content,#34568B,l/회원가입 정합성 검증 예시,450
+46.png/최종 Submit 시 비밀번호의 정합성 및 필수 항목이 빠짐없이 제출되었는지 확인,content,#FF6F61,f/RegistrationForm.js,450
+47.png/회원가입이 성공적으로 완료되면 회원 계정으로 가입환영과 업로드 안내를 권장하는 데이터를 생성,content,#FF6F61,f/apiCalls.js,450
+48.png/49.png,content,#34568B,l/회원등록 완료예시,450

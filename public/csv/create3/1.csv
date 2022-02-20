@@ -1,0 +1,8 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Howto데이터2[Howto로고 등록 및 불러오기],header,black,FALSE,450
+데이터베이스에 존재하지 않으면 모달창에 입력된 이미지링크를 받아와 새로 생성,text,lightgray,FALSE,450
+1-4.png,content,#FF6F61,b/howtologoSchema.js,450,,,
+1-5.png,content,#FF6F61,b/logo.controller.js,450,,,
+데이터베이스로부터 저장된 로고링크를 불러와 데이터 입력 화면에 표시,text,lightgray,FALSE,450,
+3.png,content,#34568B,l/MongoDB／howtologos.js,450,
+

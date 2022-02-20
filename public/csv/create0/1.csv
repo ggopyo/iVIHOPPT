@@ -1,0 +1,6 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Image데이터1[이미지 파일／링크생성],header,black,,450
+0.png/두 버튼 중 상단은 파일，하단버튼은 링크 이미지를 전송,content,#34568B,l/이미지 데이터 추가 초기화면,450,,,
+2.png/4.png,content,#34568B,l/버튼 클릭 후 화면 좌:파일，우:링크 ,450,,,
+1.png/파일이 업로드 될경우 그림과 같은 코드에 의해 value 변수에 저장되며 최종 submit 버튼이 눌렸을 때 formData에 실려 Backend에 보내짐,content,,f/NewPost.js,450
+

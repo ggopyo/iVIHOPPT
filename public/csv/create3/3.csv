@@ -1,0 +1,7 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+로고 데이터베이스에 입력 후 표시,header,orange,FALSE,270
+2.png,content,#FF6F61,f/NewPost.js,270,,,2.png
+2-1.png,content,#FF6F61,f/NewPost.js,270,,,
+2-2.png,content,#FF6F61,f/HowtoComponent.js,270,,,
+로고를 데이터베이스에 등록하고 불러온 이미지를 img 태그로 표시,content,lightgray,FALSE,270
+

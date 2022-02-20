@@ -1,0 +1,9 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+3.png/카카오 홈페이지로부터 받은 RedirectUri로 이동하여 Kakao Code를 얻음,content,#FF6F61,f/KakaoLogin.js,450
+4.png/가져온 Kakao Code로 KakaoAPI에 접속하여 Kakao Token을 받아야 함,content,#FF6F61,f/PassKakaoCode.js,450
+6.png/7.png,content,#FF6F61,f/PassKakaoCode.js,450
+받은 Token을 위와 같이 카카오 서버로 보내 회원정보를 얻고 이를 backend로 전송하면 로그인 완료,text,#FF6F61,,450
+10.png,content,#FF6F61,f/apiCalls.js,450
+
+
+

@@ -1,0 +1,4 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+메뉴사이드바2,header,black,FALSE,450
+0.png,content,#34568B,l/Tab을 이용한 메뉴이용 예시,450
+내 계정에서 업로드 된 이미지를 목록으로 확인 가능/좌측 고정 사이드바의 조회모드를 통해 접근 가능,text,lightgray,FALSE,450

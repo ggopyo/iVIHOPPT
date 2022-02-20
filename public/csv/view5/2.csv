@@ -1,0 +1,4 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+3.png/ 데이터를 클릭할 시 selectPost함수가 호출,content,#FF6F61,f/ProfileImageData.js,450
+4.png/해당 State를 Redux를 통해 localStorage로 보내고 이를 다른 Component에서 사용한다 ,content,#FF6F61,f/ProfileImageData.js,450
+7.png/데이터를 클릭하면 화면과 같이 페이지가 바뀌게 됨,content,#34568B,FALSE,450

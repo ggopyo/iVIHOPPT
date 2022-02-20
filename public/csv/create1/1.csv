@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Video데이터[유투브 섬네일 가져오기],header,black,,450
+0.png,content,#34568B,l/영상 데이터(유투브) 추가 예시,450,,,
+자료 올리기에서 유투브 탭을 클릭하고 링크를 입력,text,blue,FALSE,450
+7.png/유투브에서 제공하는 섬네일 주소로부터 섬네일을 가져올 수 있음,content,#34568B,l/Youtube 제공 섬네일 주소,450

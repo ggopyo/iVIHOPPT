@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+전체데이터 검색,header,black,FALSE,450
+33.png/로그인되어있는 경우 가운데 검색창이 활성화가 되어있음,content,#34568B,l/중앙 검색창,450
+00.png/01.png,content,#34568B,l/검색 후 검색창의 위치 이동,450
+37.png/화면 가운데 검색 인풋태그에서 검색어를 입력하면 result 배열의 검색 결과가 표시되며 result의 length에 따라 검색창이 상단 NavBar로 옮겨짐,content,#FF6F61,f/MuiNavbar.js,450

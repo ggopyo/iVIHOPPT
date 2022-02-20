@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+프로필 조회,header,black,FALSE,450
+4.png,content,#34568B,l/프로필 초기화면,450
+좌측은 사용자의 프로필，우측은 내가 조회하는 사용자의 프로필을 표시,text,#FF6F61,,450
+1.png/프로필보기 탭 오른편의 통계정보에서는 지금까지 업로드한 데이터와 받은 댓글，좋아요 수 등의 통계정보를 볼 수 있음,content,#34568B,l/통계 정보탭,450

@@ -1,0 +1,34 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail,ifHidden
+전체화면보기(F11),content,#8c8c8c/black,FALSE,130,,center,,
+지원자 소개,content,#2979ff/black,FALSE,120,,center,,
+이력,content,#D3D3D3/black,FALSE,100,,center,,1
+Skills,content,#D3D3D3/black,FALSE,100,,center,,1
+프로젝트 소개,content,#2979ff/black,FALSE,120,,center,,
+일정,content,#D3D3D3/black,FALSE,100,,center,,4
+기술 스택,content,#D3D3D3/black,FALSE,100,,center,,4
+프로젝트 내용,content,#D3D3D3/black,FALSE,100,,center,,4
+기능 및 구조,content,#D3D3D3/black,FALSE,100,,center,,4
+데이터베이스,content,#D3D3D3/black,FALSE,100,,center,,4
+검색，조회 파트,content,#2979ff/black,FALSE,120,,center,,
+한 데이터 조회,content,#D3D3D3/black,FALSE,105,,center,,10
+전체 데이터 검색,content,#D3D3D3/black,FALSE,120,,center,,10
+나의 데이터 검색,content,#D3D3D3/black,FALSE,120,,center,,10
+메뉴사이드바1,content,#D3D3D3/black,FALSE,105,,center,,10
+메뉴사이드바2,content,#D3D3D3/black,FALSE,105,,center,,10
+데이터탭 이동,content,#D3D3D3/black,FALSE,100,,center,,10
+생성 파트,content,#2979ff/black,FALSE,120,,center,,
+Image데이터,content,#D3D3D3/black,FALSE,110,,center,,17
+Video데이터,content,#D3D3D3/black,FALSE,110,,center,,17
+Howto데이터1,content,#D3D3D3/black,FALSE,110,,center,,17
+Howto데이터2,content,#D3D3D3/black,FALSE,110,,center,,17
+댓글 추가,content,#D3D3D3/black,FALSE,100,,center,,17
+회원 파트,content,#2979ff/black,FALSE,120,,center,,
+회원가입,content,#D3D3D3/black,FALSE,100,,center,,23
+카카오로그인,content,#D3D3D3/black,FALSE,100,,center,,23
+프로필 조회,content,#D3D3D3/black,FALSE,100,,center,,23
+소셜 기능,content,#D3D3D3/black,FALSE,100,,center,,23
+마치며,content,#2979ff/black,FALSE,120,,center,,
+배우고 느낀점,content,#D3D3D3/black,FALSE,105,,center,,28
+아쉬운 점,content,#D3D3D3/black,FALSE,100,,center,,28
+프로젝트 소감,content,#D3D3D3/black,FALSE,100,,center,,28
+thanks,content,#D3D3D3/black,FALSE,100,,center,,28

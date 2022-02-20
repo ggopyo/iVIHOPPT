@@ -1,0 +1,8 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Howto데이터1[Howto데이터 추가 및 로고확인],header,black,FALSE,450
+0.png/테스트를 위해 pixabay.com이라는 사이트의 URL을 입력,content,#34568B,l/Howto 데이터 추가 예시,450
+Howto데이터 초기입력화면에서 추가하고자 하는 링크를 입력하면,text,lightgray,FALSE,450
+0-1.png/함수가 도메인을 추출하여 해당 도메인이 로고 데이터베이스에 존재하는지 확인,content,#34568B,l/데이터 추가시 로고 확인 코드,450,,,
+로고가 있는지를 확인하고 등록된 로고가 없으면 에러를 발생하게 됨,text,lightgray,FALSE,450
+4.png/catch문에서 error를 핸들링할 때 needLogo에 true값을 전해줌으로써 로고가 없다는 표시를 함,content,#FF6F61,f/NewPost.js,450,,center
+

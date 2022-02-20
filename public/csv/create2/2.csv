@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail,align
+0-11.png/사이트 로고가 표시되어야 하는 자리에 사이트 로고가 없다는 표시가 생김. 이를 클릭하면 로고를 입력할 수 있는 모달창이 생성,content,#FF6F61,f/HowtoComponent.js,450,,,
+1.png,content,#34568B,l/로고 등록 모달창 예시,450,,center
+1-1.png,content,#FF6F61,f/HowtoComponent.js,450,
+데이터베이스에 존재하지 않으면 모달창에 입력된 이미지링크를 받아와 새로 생성,text,lightgray,FALSE,450

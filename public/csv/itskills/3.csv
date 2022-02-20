@@ -1,0 +1,13 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Java，jQuery，Spring，SQL - 학원 과정,content,#34568B,FALSE,280,,center
+ajax를 활용한 첨부파일 및 댓글 게시판 구현 가능,text,#34568B,FALSE,280
+필요 Dependency 주입하여 Security 구현,text,#34568B,FALSE,280
+SQL에서 테이블 조인 및 Subquery 구현 가능,text,#34568B,FALSE,280
+Spring Mybatis를 통해 CRUD 가능,text,#34568B,FALSE,280
+Collection(List，Map)과 STREAM 활용 가능,text,#34568B,FALSE,280
+Jquery를 활용하여 동적 프로그래밍 가능 ,text,#34568B,FALSE,280
+기타,content,#34568B,FALSE,280,,center
+Python - (BeautifulSoup，Selenium) 활용,text,#34568B,FALSE,280
+Python - (Pandas，numpy) 활용,text,#34568B,FALSE,280
+Git console／GUI를 활용한 프로젝트 버전관리,text,#34568B,FALSE,280
+

@@ -1,0 +1,13 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+Work Experience,content,#34568B,FALSE,280,,center
+삼익물류㈜,text,#34568B,FALSE,280
+KOCOM 동남아시아,text,#34568B,FALSE,280
+IT Skills,content,#34568B,FALSE,280,,center
+Javascript(with React),text,#34568B,FALSE,280
+Java(with Spring Framework),text,#34568B,FALSE,280
+Python,text,#34568B,FALSE,280
+Certifications,content,#34568B,FALSE,280,,center
+토익 930 ／ 무역영어 1급,text,#34568B,FALSE,280
+컴퓨터활용능력1급 ／ 워드프로세서1급,text,#34568B,FALSE,280
+HRM전문가 ／ 보세사 ／ 국제무역사,text,#34568B,FALSE,280
+

@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+2.png/게시물 하나를 검색한 후 다른 아이디를 클릭하면 다른계정의 프로필이 오른편에 조회됨,content,#34568B,l/다른계정 조회하기,450
+4.png/Follow 버튼을 클릭하면 선택 계정을 팔로우하게 됨,content,#34568B,l/다른계정 선택 후 프로필화면,450
+8.png,content,#34568B,l/팔로우 후 프로필 화면,450
+팔로우 완료. 선택 계정에서는 팔로워，나의 계정에서는 팔로잉에 해당 계정이 표시됨,text,#FF6F61,,450

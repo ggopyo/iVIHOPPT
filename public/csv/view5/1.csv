@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+데이터탭 이동,header,black,FALSE,450
+1.png/현재 사용자의 데이터를 useEffect를 통해 최초 화면 렌더 시 불러옴,content,#FF6F61,f/Home.js,450
+2.png/불러온 데이터는 자식 Component로 보내 화면에 표시하고,content,#FF6F61,f/Home.js,450
+0.png,content,#34568B,l/데이터 목록 예시,450

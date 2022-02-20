@@ -1,0 +1,6 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+카카오로그인,header,black,FALSE,450
+Kakao API를 사용해 간편 로그인이 가능,text,#FF6F61,FALSE,450
+0.png/카카오로그인 버튼을 클릭하면 로그인 및 서비스 이용동의(최초 1회) 과정을 거쳐 KakaoLogin 컴포넌트로 연결,content,#34568B,l/페이지 우측상단 계정섹션,450
+1.png/5.png,content,#34568B,l/카카오 인증절차,450
+Kakao 아이디와 비밀번호를 입력하고 서비스 이용에 동의하는 과정,text,#FF6F61,,450

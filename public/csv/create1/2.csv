@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+6.png/데이터 입력 화면과 동시에 getYoutubeThumbnail함수를 호출,content,#FF6F61,f/YoutubeComponent.js,450
+1.png,content,#FF6F61,f/NewPost.js,450
+유투브의 주소로부터 id를 추출하고 가져온 유투브 섬네일을 반환함,text,#FF6F61,,450
+2.png,content,#34568B,영상 데이터 섬네일 추가 예시,450

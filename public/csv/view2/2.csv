@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+4.png/SearchResult 컴포넌트 또는 조회모드에서 표시한 결과를 클릭하면 데이터를 조회할 수 있다,content,#FF6F61,f/SearchResult.js,450,
+5.png/identifier 구분에 따라 비교연산(===)과 && Short Circuit Evaluation(&&)을 사용 데이터를 표시한다,content,#FF6F61,f/ImageData.js,450,
+동영상 클릭 시 저장된 Youtube 링크를 불러와 재생/이미지 클릭 시 저장된 Image 링크 또는 파일을 DB에서 불러와 표시,text,#FF6F61,FALSE,450,
+

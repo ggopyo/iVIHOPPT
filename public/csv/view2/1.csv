@@ -1,0 +1,4 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+나의 데이터 검색,header,black,FALSE,450
+0.png,content,#34568B,l/나의 데이터 검색 예시,450,
+내 계정에서 업로드 된 이미지를 목록으로 확인 가능/좌측 고정 사이드바의 조회모드를 통해 접근 가능,text,lightgray,FALSE,450

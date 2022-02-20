@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+1code.png/Material-UI Tab component를 사용하여 Data 별로 접근할 수 있음,content,#FF6F61,f/NewPost.js,450
+0code.png/tab의 값이 변할 때 마다 다른 화면을 표시하며 이 코드는 조회 모드 화면을 반환한다,content,#FF6F61,f/NewPost.js,450
+3.png/ 좌측 고정 사이드바를 클릭할 때마다 화면 내용이 변경됨,content,lightgray,FALSE,450
+

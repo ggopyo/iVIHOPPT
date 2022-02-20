@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+34.png/로그인 전에는 검색창 대신 로그인 인풋태그와 버튼이 나타남,content,#34568B,l/로그인 전후 중앙 화면의 변화,450
+1.png,content,#FF6F61,f/Search.js,450
+22.png/SearchInputComponent에 setSearchText 함수를 전달하여 검색어를 받음,content,#FF6F61,f/TypeAndSearch.js,450
+11.png/form 태그를 통해 입력된 검색어를 전송하고 검색어를 공백으로 만들어준다,content,#FF6F61,f/TypeAndSearch.js,450

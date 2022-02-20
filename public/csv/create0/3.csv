@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height
+IMAGE(파일/링크) - 코드,header,orange,FALSE,270
+2.png,content,green,FALSE,270,160
+내 계정에서 업로드 된 이미지를 목록으로 확인 가능,content,lightgray,FALSE,270
+좌측 고정 사이드바의 조회모드를 통해 접근 가능,content,lightgray,FALSE,270

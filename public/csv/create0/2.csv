@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+5.png/각 input에 입력된 정보와 파일 데이터를 formData에 담는 코드,content,,f/NewPost.js,450
+6.png/formData에 담긴 정보를 Backend로 보내면 이미지 데이터가 저장됨,content,#FF6F61,f/YoutubeComponent.js,450
+8.png/9.png,content,#FF6F61,l/이미지 파일 업로드 후 목록조회 화면,450
+그림과 같이 이미지 데이터 업로드가 완료되었음,text,#FF6F61,,450

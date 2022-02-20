@@ -1,0 +1,4 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail
+로고 데이터베이스에 입력 후 표시,header,blue,FALSE,270,
+2.png,content,#FF6F61,FALSE,270,
+데이터베이스로부터 저장된 로고링크를 불러와 데이터 입력 화면에 표시,content,lightgray,FALSE,270,

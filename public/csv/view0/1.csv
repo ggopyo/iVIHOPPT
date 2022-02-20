@@ -1,0 +1,5 @@
+content,identifier,color,fileheader,width,height,align,ifThumbnail,
+한 데이터 조회,header,black,FALSE,450
+1.png/저장된 Data는 Material-UI의 DataGrid에서도 접근 가능,content,#FF6F61,f/AttachComponent.js,450,,,
+5.png/좌측 고정 사이드바의 프로필모드를 클릭하면 프로필 화면과 함께 DataGrid를 통해 업로드한 데이터들을 확인 가능,content,#34568B,l/업로드 된 데이터 조회,450
+6.png,content,#34568B,l/DataGrid 예시,450
